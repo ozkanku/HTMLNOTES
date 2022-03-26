@@ -1,2 +1,2 @@
 # HTMLNOTES
- html notlarım
+ www.patika.dev
